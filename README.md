@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deshitha Gallage</h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=600&lines=Computer+Science+%26+Engineering+Undergraduate;ML+%26+Data+Science+Enthusiast;Passionate+about+Web+Development" alt="Typing SVG" /></a></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deshithagallage&label=Profile%20views&color=0e75b6&style=flat" alt="deshithagallage" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=deshithagallage&label=Profile%20views&color=0e75b6&style=flat" alt="deshithagallage" /></p>
 
 <img align="right" src="https://github.com/deshithagallage/deshithagallage/blob/main/working_space.gif?raw=true" alt="adam-pw" width="40%" />
 
