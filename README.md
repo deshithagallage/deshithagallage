@@ -1,17 +1,17 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/deshithagallage/deshithagallage/blob/main/hacker.gif?raw=true" width = 70px></picture></p>
 <h1 align="center">Hi 👋, I'm Deshitha Gallage</h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=600&lines=Computer+Science+%26+Engineering+Undergraduate;ML+%26+Data+Science+Enthusiast;Passionate+about+Web+Development" alt="Typing SVG" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deshithagallage&label=Profile%20views&color=0e75b6&style=flat" alt="deshithagallage" /> </p>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="40%" />
+<img align="right" src="https://github.com/deshithagallage/deshithagallage/blob/main/working_space.gif?raw=true" alt="adam-pw" width="40%" />
 
 <h3>About Me:</h3>
 
 - 👀 I’m interested in **Machine Learning & Data Science**
 - 🧑‍🎓 I’m currently an Undergraduate at **University of Moratuwa**
 - 💬 Ask me about **ML and Data Science | Web Development**
-- 👨‍💻 All of my projects are available at [**my portfolio**](deshithagallage.github.io)
+- 👨‍💻 All of my projects are available at [**my portfolio**](https://deshithagallage.github.io/)
 - 📫 How to reach me: **deshitha.21@cse.mrt.ac.lk**
 - ⚡ Fun fact: Programmers turn caffeine into code **daily!**
 
@@ -61,4 +61,3 @@
 <h3 align="left">GitHub Statistics:</h3>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deshithagallage&theme=github-dark-blue" alt="mystreak" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api?username=deshithagallage&show_icons=true&theme=github_dark" alt="Deshitha's github stats" width="47%" />
-
