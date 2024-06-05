@@ -59,5 +59,7 @@
 
 <br>
 <h3 align="left">GitHub Statistics:</h3>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deshithagallage&theme=github-dark-blue" alt="mystreak" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api?username=deshithagallage&show_icons=true&theme=github_dark" alt="Deshitha's github stats" width="47%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deshithagallage&theme=github-dark-blue" alt="mystreak" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deshithagallage&show_icons=true&theme=github_dark" alt="Deshitha's github stats" width="48%" />
+</p>
