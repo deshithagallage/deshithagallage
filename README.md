@@ -8,7 +8,7 @@
 
 <h3>About Me:</h3>
 
-- 👀 I am interested in **Machine Learning & Data Science**
+- 👀 I'm interested in **Machine Learning & Data Science**
 - 🧑‍🎓 I’m currently an Undergraduate at **University of Moratuwa**
 - 💬 Ask me about **ML & Data Science | Web Development**
 - 👨‍💻 All of my projects are available at [**my portfolio**](https://deshithagallage.github.io/)
