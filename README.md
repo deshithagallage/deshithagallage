@@ -13,7 +13,7 @@
 - 💬 Ask me about **ML & Data Science | Web Development**
 - 👨‍💻 All of my projects are available at [**my portfolio**](https://deshithagallage.github.io/)
 - 📫 How to reach me: **deshitha.21@cse.mrt.ac.lk**
-- ⚡ Fun fact: Programmers turn caffeine into code **daily!**
+- ⚡ Fun fact: Programmers turn caffeine into code **daily..!**
 
 <br>
 <h3>Connect with me:</h3>
